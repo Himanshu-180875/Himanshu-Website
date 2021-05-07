@@ -10,7 +10,7 @@ body {
 .header {
   width: 100%;
   height: 100vh;
-  background: url("/images/image.jpg");
+  background: url("https://raw.githubusercontent.com/Himanshu-180875/Himanshu-website/main/public/images/image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;

@@ -23,7 +23,7 @@ class Nav extends Component {
         <div className="navbar__container">
           <ul className="navbar__left">
             <div className="navbar__left-logo">
-              <img src="/images/logo1.png" alt="logo" />
+              <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-website/main/public/images/logo1.png" alt="logo" />
             </div>
           </ul>
           {this.state.value ? (
