@@ -55,9 +55,27 @@ class Nav extends Component {
           <ul className="navbar__left">
             <div className="navbar__left-logo" onClick={this.scrollToTop}  style={{cursor:'pointer'}} >
               <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-website/main/public/images/logo1.png" alt="logo" />
+              
             </div>
           </ul>
-          {this.state.value ? (
+          <ul className="navbar__ht">
+              <li onClick={this.scrollToTop} style={{cursor:'pointer'}}  duration={500} >
+              
+                <a>Home</a>
+              
+              </li>
+              <li onClick={this.scrollToServices} style={{cursor:'pointer'}}>
+              
+                <a >Projects</a>
+              </li>
+              <li onClick={this.scrollToAbout} style={{cursor:'pointer'}}>
+                <a >About</a>
+              </li>
+              <li onClick={this.scrollToContact} style={{cursor:'pointer'}}>
+                <a>Contact</a>
+              </li>
+            </ul>
+          {!this.state.value ? (
             <ul className="navbar__right">
               <li onClick={this.scrollToTop} style={{cursor:'pointer'}}  duration={500} >
               
