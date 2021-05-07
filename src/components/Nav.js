@@ -59,9 +59,10 @@ class Nav extends Component {
           </ul>
           {this.state.value ? (
             <ul className="navbar__right">
-              <li onClick={this.scrollToTop} style={{cursor:'pointer'}}  >
-              duration={500}
+              <li onClick={this.scrollToTop} style={{cursor:'pointer'}}  duration={500} >
+              
                 <a>Home</a>
+              
               </li>
               <li onClick={this.scrollToServices} style={{cursor:'pointer'}}>
               
