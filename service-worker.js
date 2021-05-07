@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Himanshu-website/precache-manifest.34037c6dcc77fede0e19ad56ad2bb9ed.js"
+  "/Himanshu-website/precache-manifest.59138f837fa13c141f22f97cfa9ea66d.js"
 );
 
 self.addEventListener('message', (event) => {
