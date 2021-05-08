@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Himanshu-website/static/css/main.c812f3e5.chunk.css",
-    "main.js": "/Himanshu-website/static/js/main.4c5f89a1.chunk.js",
-    "main.js.map": "/Himanshu-website/static/js/main.4c5f89a1.chunk.js.map",
-    "runtime-main.js": "/Himanshu-website/static/js/runtime-main.acc19dbb.js",
-    "runtime-main.js.map": "/Himanshu-website/static/js/runtime-main.acc19dbb.js.map",
-    "static/js/2.723e2cc6.chunk.js": "/Himanshu-website/static/js/2.723e2cc6.chunk.js",
-    "static/js/2.723e2cc6.chunk.js.map": "/Himanshu-website/static/js/2.723e2cc6.chunk.js.map",
-    "index.html": "/Himanshu-website/index.html",
-    "precache-manifest.e0750a49ebccf7aeeb5d487d7cd4cb9c.js": "/Himanshu-website/precache-manifest.e0750a49ebccf7aeeb5d487d7cd4cb9c.js",
-    "service-worker.js": "/Himanshu-website/service-worker.js",
-    "static/css/main.c812f3e5.chunk.css.map": "/Himanshu-website/static/css/main.c812f3e5.chunk.css.map",
-    "static/js/2.723e2cc6.chunk.js.LICENSE.txt": "/Himanshu-website/static/js/2.723e2cc6.chunk.js.LICENSE.txt"
+    "main.css": "/Himanshu-Website/static/css/main.c812f3e5.chunk.css",
+    "main.js": "/Himanshu-Website/static/js/main.4c5f89a1.chunk.js",
+    "main.js.map": "/Himanshu-Website/static/js/main.4c5f89a1.chunk.js.map",
+    "runtime-main.js": "/Himanshu-Website/static/js/runtime-main.c92b5263.js",
+    "runtime-main.js.map": "/Himanshu-Website/static/js/runtime-main.c92b5263.js.map",
+    "static/js/2.723e2cc6.chunk.js": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js",
+    "static/js/2.723e2cc6.chunk.js.map": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js.map",
+    "index.html": "/Himanshu-Website/index.html",
+    "precache-manifest.3ffbe15caae297f2589bdc78dc461166.js": "/Himanshu-Website/precache-manifest.3ffbe15caae297f2589bdc78dc461166.js",
+    "service-worker.js": "/Himanshu-Website/service-worker.js",
+    "static/css/main.c812f3e5.chunk.css.map": "/Himanshu-Website/static/css/main.c812f3e5.chunk.css.map",
+    "static/js/2.723e2cc6.chunk.js.LICENSE.txt": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.acc19dbb.js",
+    "static/js/runtime-main.c92b5263.js",
     "static/js/2.723e2cc6.chunk.js",
     "static/css/main.c812f3e5.chunk.css",
     "static/js/main.4c5f89a1.chunk.js"
