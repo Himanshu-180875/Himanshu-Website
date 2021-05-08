@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Himanshu-Website/static/css/main.d50d6256.chunk.css",
+    "main.css": "/Himanshu-Website/static/css/main.37008c99.chunk.css",
     "main.js": "/Himanshu-Website/static/js/main.465a6fe4.chunk.js",
     "main.js.map": "/Himanshu-Website/static/js/main.465a6fe4.chunk.js.map",
     "runtime-main.js": "/Himanshu-Website/static/js/runtime-main.c92b5263.js",
@@ -8,15 +8,15 @@
     "static/js/2.723e2cc6.chunk.js": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js",
     "static/js/2.723e2cc6.chunk.js.map": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js.map",
     "index.html": "/Himanshu-Website/index.html",
-    "precache-manifest.36ca5a9fb85cebf564c18b0f49622718.js": "/Himanshu-Website/precache-manifest.36ca5a9fb85cebf564c18b0f49622718.js",
+    "precache-manifest.d1c68730df1ffb8b61cb42d899846a19.js": "/Himanshu-Website/precache-manifest.d1c68730df1ffb8b61cb42d899846a19.js",
     "service-worker.js": "/Himanshu-Website/service-worker.js",
-    "static/css/main.d50d6256.chunk.css.map": "/Himanshu-Website/static/css/main.d50d6256.chunk.css.map",
+    "static/css/main.37008c99.chunk.css.map": "/Himanshu-Website/static/css/main.37008c99.chunk.css.map",
     "static/js/2.723e2cc6.chunk.js.LICENSE.txt": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c92b5263.js",
     "static/js/2.723e2cc6.chunk.js",
-    "static/css/main.d50d6256.chunk.css",
+    "static/css/main.37008c99.chunk.css",
     "static/js/main.465a6fe4.chunk.js"
   ]
 }
