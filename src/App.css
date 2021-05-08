@@ -376,7 +376,7 @@ body {
   display: none;
 }
 @media screen and (min-width: 500px) and (max-width: 600px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
   }
@@ -387,34 +387,8 @@ body {
   
    
   
- } */
- .col-6 strong{
-   font-size: 25px;
  }
- .col-6 p{
-  font-size: 25px;
-}
- .contactCircles li {
-  width: 80px;
-  height: 80px;
-}
-svg.contactIcon{
-  font-size: 30px;
-}
-svg.headerIcon{
-  font-size: 30px;
-}
-.header__ul li {
-  width: 80px;
-  height: 80px;
-}
-.contactSection p{
-  font-size: 30px;
-}
-.contactSection-logo img{
-  width: 350px;
-  height: 350px;
-}
+
   a.btn.btn-outline{
     margin-left: 2%;
   }
@@ -510,9 +484,11 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
    
-    margin-left: 22%;
+
+
+   
+    margin-left: 28%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -526,48 +502,22 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 400px) and (max-width: 470px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
-
-  .col-6 strong{
-    font-size: 25px;
   }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
+
+  
   .navbar__ht {
     display: none;
   }
   
- /* div.header__section{
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   
   a.btn.btn-outline{
     margin-left: 2%;
@@ -662,8 +612,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 13%;
+   
+    margin-left: 19%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -673,47 +623,21 @@ svg.headerIcon{
 }
 
 @media screen and (min-width: 471px) and (max-width: 500px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
   
- /* div.header__section{
+  
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   
   a.btn.btn-outline{
     margin-left: 2%;
@@ -808,8 +732,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 13%;
+    
+    margin-left: 24%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -820,47 +744,21 @@ svg.headerIcon{
 
 
 @media screen and (min-width: 300px) and (max-width: 360px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 25px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
   
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
- /* div.header__section{
+  
+ div.header__section{
    margin-top: 100px;
   
    
   
- } */
+ }
   div.container{
     width: 100%;
   }
@@ -958,8 +856,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 3%;
+    
+    margin-left: 8%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -968,47 +866,21 @@ svg.headerIcon{
   }
 }
 @media screen and (min-width: 361px) and (max-width: 399px) {
- /* h1.banner-heading{
+ h1.banner-heading{
    font-size: 35px;
   
- } */
+ }
  .navbar__ht {
   display: none;
 }
-.col-6 strong{
-  font-size: 25px;
-}
-.col-6 p{
- font-size: 25px;
-}
-.contactCircles li {
- width: 80px;
- height: 80px;
-}
-svg.contactIcon{
- font-size: 30px;
-}
-svg.headerIcon{
- font-size: 30px;
-}
-.header__ul li {
- width: 80px;
- height: 80px;
-}
-.contactSection p{
- font-size: 30px;
-}
-.contactSection-logo img{
- width: 350px;
- height: 350px;
-}
+
  
-/* div.header__section{
+div.header__section{
   margin-top: -40px;
  
   
  
-} */
+}
   
   a.btn.btn-outline{
     margin-left: 2%;
@@ -1100,8 +972,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 4%;
+    
+    margin-left: 13%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -1115,47 +987,21 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 601px) and (max-width: 700px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
   
- /* div.header__section{
+  
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   a.btn.btn-outline{
     margin-left: 2%;
   }
@@ -1248,8 +1094,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 27%;
+   
+    margin-left: 32%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -1263,46 +1109,20 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 701px) and (max-width: 800px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
- /* div.header__section{
+ 
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   a.btn.btn-outline{
     margin-left: 2%;
   }
@@ -1395,8 +1215,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 28%;
+   
+    margin-left: 34%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -1410,47 +1230,21 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 801px) and (max-width: 900px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
   
- /* div.header__section{
+  
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1543,8 +1337,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 28%;
+    
+    margin-left: 37%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -1558,47 +1352,21 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 901px) and (max-width: 1000px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
+ 
   
- /* div.header__section{
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1691,8 +1459,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-   font-size: 60px;
-    margin-left: 32%;
+   
+    margin-left: 39%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -1706,47 +1474,21 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 1001px) and (max-width: 1100px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
   
- /* div.header__section{
+  
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1839,8 +1581,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-    font-size:60px;
-    margin-left: 35%;
+    
+    margin-left: 39%;
   }
   svg.commonIcons{
      font-size: 20px;
@@ -1854,48 +1596,22 @@ svg.headerIcon{
 
 }
 @media screen and (min-width: 1101px) and (max-width: 1200px) {
-  /* h1.banner-heading{
+  h1.banner-heading{
     font-size: 35px;
    
-  } */
+  }
   .navbar__ht {
     display: none;
   }
-  .col-6 strong{
-    font-size: 25px;
-  }
-  .col-6 p{
-   font-size: 25px;
- }
-  .contactCircles li {
-   width: 80px;
-   height: 80px;
- }
- svg.contactIcon{
-   font-size: 30px;
- }
- svg.headerIcon{
-   font-size: 30px;
- }
- .header__ul li {
-   width: 80px;
-   height: 80px;
- }
- .contactSection p{
-   font-size: 30px;
- }
- .contactSection-logo img{
-   width: 350px;
-   height: 350px;
- }
   
   
- /* div.header__section{
+  
+ div.header__section{
    margin-top: 80px;
   
    
   
- } */
+ }
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1988,8 +1704,8 @@ svg.headerIcon{
    
   }
   h1.follow{
-   font-size:60px;
-    margin-left: 34%;
+  
+    margin-left: 40%;
   }
   svg.commonIcons{
      font-size: 20px;
