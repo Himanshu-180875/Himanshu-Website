@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Himanshu-Website/static/css/main.409e8f4f.chunk.css",
-    "main.js": "/Himanshu-Website/static/js/main.eea3e437.chunk.js",
-    "main.js.map": "/Himanshu-Website/static/js/main.eea3e437.chunk.js.map",
+    "main.css": "/Himanshu-Website/static/css/main.008556b2.chunk.css",
+    "main.js": "/Himanshu-Website/static/js/main.465a6fe4.chunk.js",
+    "main.js.map": "/Himanshu-Website/static/js/main.465a6fe4.chunk.js.map",
     "runtime-main.js": "/Himanshu-Website/static/js/runtime-main.c92b5263.js",
     "runtime-main.js.map": "/Himanshu-Website/static/js/runtime-main.c92b5263.js.map",
     "static/js/2.723e2cc6.chunk.js": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js",
     "static/js/2.723e2cc6.chunk.js.map": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js.map",
     "index.html": "/Himanshu-Website/index.html",
-    "precache-manifest.e0d3af43d62df3ed3f9209245bf5e6ff.js": "/Himanshu-Website/precache-manifest.e0d3af43d62df3ed3f9209245bf5e6ff.js",
+    "precache-manifest.9a020248a6908b27aa7346766ea3cb6f.js": "/Himanshu-Website/precache-manifest.9a020248a6908b27aa7346766ea3cb6f.js",
     "service-worker.js": "/Himanshu-Website/service-worker.js",
-    "static/css/main.409e8f4f.chunk.css.map": "/Himanshu-Website/static/css/main.409e8f4f.chunk.css.map",
+    "static/css/main.008556b2.chunk.css.map": "/Himanshu-Website/static/css/main.008556b2.chunk.css.map",
     "static/js/2.723e2cc6.chunk.js.LICENSE.txt": "/Himanshu-Website/static/js/2.723e2cc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c92b5263.js",
     "static/js/2.723e2cc6.chunk.js",
-    "static/css/main.409e8f4f.chunk.css",
-    "static/js/main.eea3e437.chunk.js"
+    "static/css/main.008556b2.chunk.css",
+    "static/js/main.465a6fe4.chunk.js"
   ]
 }
