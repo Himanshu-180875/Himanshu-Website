@@ -5,13 +5,12 @@ import {
   FaTwitter,
   FaLinkedin,
   FaInstagram,
+  FaWhatsapp,
+  FaPhoneAlt,
+  FaEnvelope
   
 } from "react-icons/fa";
-function openWhatsapp(){
-  return(
-  'https://api.whatsapp.com/send?phone=+91-9050075569'
-  )
-}
+
 const Contact = () => {
   
   return (
@@ -27,7 +26,25 @@ const Contact = () => {
                 Please feel free to reach out to me directly.
                 I look forward to getting to know all of you!
               </p>
-              <a  href="https://api.whatsapp.com/send?phone=+91-9050075569">9050075569</a>
+          
+              <ul className="contactCircles">
+             
+              <a href="https://api.whatsapp.com/send?phone=+91-9050075569&text=%20Hi,Himanshu"><li>
+              <FaWhatsapp className="contactIcon" />
+              
+              </li>
+             </a>
+             <a href="tel:+91-9050075569"><li>
+             <FaPhoneAlt className="contactIcon" />
+             </li></a>
+             <a href="mailto:himansh10b@gmail.com"><li>
+             <FaEnvelope className="contactIcon" />
+             </li></a>
+             
+              </ul>
+              
+              
+              
               <h1 className="follow">Follow Me On</h1>
               <ul className="contactCircles">
                 <a href="https://www.facebook.com/himansh.pahuja.7/"><li>
