@@ -376,7 +376,7 @@ body {
   display: none;
 }
 @media screen and (min-width: 500px) and (max-width: 600px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
   }
@@ -386,7 +386,7 @@ body {
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 2%;
   }
@@ -458,7 +458,7 @@ body {
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -497,20 +497,20 @@ body {
 
 }
 @media screen and (min-width: 400px) and (max-width: 470px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   
   a.btn.btn-outline{
     margin-left: 2%;
@@ -581,7 +581,7 @@ body {
    
   }
   .header__section p {
-    font-size: 15px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -616,20 +616,20 @@ body {
 }
 
 @media screen and (min-width: 471px) and (max-width: 500px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   
   a.btn.btn-outline{
     margin-left: 2%;
@@ -700,7 +700,7 @@ body {
    
   }
   .header__section p {
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -736,20 +736,20 @@ body {
 
 
 @media screen and (min-width: 300px) and (max-width: 360px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 25px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 100px;
   
    
   
- }
+ } */
   div.container{
     width: 100%;
   }
@@ -823,7 +823,7 @@ body {
    
   }
   .header__section p {
-    font-size: 14px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -857,20 +857,20 @@ body {
   }
 }
 @media screen and (min-width: 361px) and (max-width: 399px) {
- h1.banner-heading{
+ /* h1.banner-heading{
    font-size: 35px;
   
- }
+ } */
  .navbar__ht {
   display: none;
 }
  
-div.header__section{
-  margin-top: 120px;
+/* div.header__section{
+  margin-top: -40px;
  
   
  
-}
+} */
   
   a.btn.btn-outline{
     margin-left: 2%;
@@ -938,7 +938,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 15px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 40px;
@@ -977,20 +977,20 @@ div.header__section{
 
 }
 @media screen and (min-width: 601px) and (max-width: 700px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 2%;
   }
@@ -1059,7 +1059,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -1098,20 +1098,20 @@ div.header__section{
 
 }
 @media screen and (min-width: 701px) and (max-width: 800px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 2%;
   }
@@ -1180,7 +1180,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -1219,20 +1219,20 @@ div.header__section{
 
 }
 @media screen and (min-width: 801px) and (max-width: 900px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1301,7 +1301,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -1340,20 +1340,20 @@ div.header__section{
 
 }
 @media screen and (min-width: 901px) and (max-width: 1000px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1422,7 +1422,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -1461,20 +1461,20 @@ div.header__section{
 
 }
 @media screen and (min-width: 1001px) and (max-width: 1100px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1543,7 +1543,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -1582,20 +1582,20 @@ div.header__section{
 
 }
 @media screen and (min-width: 1101px) and (max-width: 1200px) {
-  h1.banner-heading{
+  /* h1.banner-heading{
     font-size: 35px;
    
-  }
+  } */
   .navbar__ht {
     display: none;
   }
   
- div.header__section{
+ /* div.header__section{
    margin-top: 80px;
   
    
   
- }
+ } */
   a.btn.btn-outline{
     margin-left: 0%;
   }
@@ -1664,7 +1664,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
