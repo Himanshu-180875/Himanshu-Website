@@ -13,7 +13,7 @@ const Banner = () => {
     text:
       "Observant and Innovative Full Stack Developer & Problem-Solver, Eager to learn new skills and help the \
       organization in development and deployment of websites ​",
-    image: "https://raw.githubusercontent.com/Himanshu-180875/Himanshu-website/main/public/images/man-05.png",
+    image: "https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/man-05.png",
   });
   return (
     <header className="header">

@@ -22,7 +22,7 @@ const About = () => {
         <div className="row  h-650 alignCenter">
           <div className="col-6">
             <div className="about__img">
-              <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-website/main/public/images/man-05.png" alt="man" />
+              <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/man-05.png" alt="man" />
             </div>
           </div>
           <div className="col-6">

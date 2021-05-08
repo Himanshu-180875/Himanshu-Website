@@ -20,7 +20,7 @@ const Contact = () => {
           <div className="row justifyConter">
             <div className="col-6">
               <div className="contactSection-logo">
-                <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-website/main/public/images/logo1.png" alt="" />
+                <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/logo1.png" alt="" />
               </div>
               <p>
                 Please feel free to reach out to me directly.
