@@ -22,7 +22,7 @@ const Contact = () => {
               <div className="contactSection-logo">
                 <img src="https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/logo1.png" alt="" />
               </div>
-              <p>
+              <p className="contactpara">
                 Please feel free to reach out to me directly.
                 I look forward to getting to know all of you!
               </p>
