@@ -29,7 +29,7 @@ const Contact = () => {
           
               <ul className="contactCircles">
              
-              <a href="http://api.whatsapp.com/send?phone=+91-9050075569&text=%20Hi,Himanshu"><li>
+              <a href="http://www.api.whatsapp.com/send?phone=+91-9050075569&text=%20Hi,Himanshu"><li>
               <FaWhatsapp className="contactIcon" />
               
               </li>
