@@ -588,7 +588,7 @@ body {
    
   }
   .header__section p {
-    font-size: 26px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -708,7 +708,7 @@ body {
    
   }
   .header__section p {
-    font-size: 25px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -832,7 +832,7 @@ body {
    
   }
   .header__section p {
-    font-size: 26px;
+    font-size: 13px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 50px;
@@ -867,7 +867,7 @@ body {
 }
 @media screen and (min-width: 361px) and (max-width: 399px) {
  h1.banner-heading{
-   font-size: 35px;
+   font-size: 25px;
   
  }
  .navbar__ht {
@@ -876,7 +876,7 @@ body {
 
  
 div.header__section{
-  margin-top: -40px;
+  margin-top: 50px;
  
   
  
@@ -948,7 +948,7 @@ div.header__section{
    
   }
   .header__section p {
-    font-size: 26px;
+    font-size: 14px;
     font-weight: 300;
     line-height: 30px;
     margin-bottom: 40px;
