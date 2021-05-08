@@ -19,7 +19,7 @@ const Services = () => {
       Link:"https://creature-s.herokuapp.com/",
       Github:"https://github.com/Himanshu-180875/creatures",
       
-      image:"images/3.png"
+      image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/3.png"
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ const Services = () => {
       Link:"https://c-clothing.herokuapp.com/",
       Github:"https://github.com/Himanshu-180875/crwn-clothing",
      
-        image:"images/4.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/4.png"
     },
     {
       id: 3,
@@ -39,7 +39,7 @@ const Services = () => {
       Link:"https://himanshu-180875.github.io/musicwiki/",
       Github:"https://github.com/Himanshu-180875/musicwiki",
      
-        image:"images/5.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/5.png"
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ const Services = () => {
       heading: "Squad Performers",
         Link:"https://squadperformers3.000webhostapp.com/",
         Github:"https://github.com/Himanshu-180875/Squadperformers",
-        image:"images/6.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/6.png"
     },
     {
       id: 5,
@@ -58,7 +58,7 @@ const Services = () => {
       Link:"https://ordermania.000webhostapp.com/",
       Github:"https://github.com/Himanshu-180875/Ordermania",
      
-        image:"images/7.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/7.png"
     },
     {
       id: 6,
@@ -68,7 +68,7 @@ const Services = () => {
       Link:"https://himanshu-180875.github.io/monsters-rolodex/",
       Github:"https://github.com/Himanshu-180875/monsters-rolodex",
      
-        image:"images/8.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/8.png"
     },
     {
       id: 7,
@@ -78,7 +78,7 @@ const Services = () => {
       Link:"https://image--searcher.herokuapp.com/",
       Github:"https://github.com/Himanshu-180875/image-searcher",
      
-        image:"images/2.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/2.png"
     },
     {
       id: 8,
@@ -88,7 +88,7 @@ const Services = () => {
       Link:"https://himanshu-180875.github.io/Clinicspots-website/",
       Github:"https://github.com/Himanshu-180875/Clinicspots-website",
      
-        image:"images/1.png"
+        image:"https://raw.githubusercontent.com/Himanshu-180875/Himanshu-Website/master/public/images/1.png"
     },
   ]);
   return (
